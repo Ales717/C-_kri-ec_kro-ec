@@ -1,0 +1,15 @@
+C:\Users\prose\OneDrive\Namizje\feri\Računalniška omrežja\vaja2\vaja2\bin\Debug\net6.0\Client.exe
+C:\Users\prose\OneDrive\Namizje\feri\Računalniška omrežja\vaja2\vaja2\bin\Debug\net6.0\Client.deps.json
+C:\Users\prose\OneDrive\Namizje\feri\Računalniška omrežja\vaja2\vaja2\bin\Debug\net6.0\Client.runtimeconfig.json
+C:\Users\prose\OneDrive\Namizje\feri\Računalniška omrežja\vaja2\vaja2\bin\Debug\net6.0\Client.dll
+C:\Users\prose\OneDrive\Namizje\feri\Računalniška omrežja\vaja2\vaja2\bin\Debug\net6.0\Client.pdb
+C:\Users\prose\OneDrive\Namizje\feri\Računalniška omrežja\vaja2\vaja2\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+C:\Users\prose\OneDrive\Namizje\feri\Računalniška omrežja\vaja2\vaja2\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prose\OneDrive\Namizje\feri\Računalniška omrežja\vaja2\vaja2\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+C:\Users\prose\OneDrive\Namizje\feri\Računalniška omrežja\vaja2\vaja2\obj\Debug\net6.0\Client.AssemblyInfo.cs
+C:\Users\prose\OneDrive\Namizje\feri\Računalniška omrežja\vaja2\vaja2\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\prose\OneDrive\Namizje\feri\Računalniška omrežja\vaja2\vaja2\obj\Debug\net6.0\Client.dll
+C:\Users\prose\OneDrive\Namizje\feri\Računalniška omrežja\vaja2\vaja2\obj\Debug\net6.0\refint\Client.dll
+C:\Users\prose\OneDrive\Namizje\feri\Računalniška omrežja\vaja2\vaja2\obj\Debug\net6.0\Client.pdb
+C:\Users\prose\OneDrive\Namizje\feri\Računalniška omrežja\vaja2\vaja2\obj\Debug\net6.0\Client.genruntimeconfig.cache
+C:\Users\prose\OneDrive\Namizje\feri\Računalniška omrežja\vaja2\vaja2\obj\Debug\net6.0\ref\Client.dll
